@@ -1,0 +1,15 @@
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\obj\Debug\net10.0\1-NIVEL BASICO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\obj\Debug\net10.0\1-NIVEL BASICO.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\obj\Debug\net10.0\1-NIVEL BASICO.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\obj\Debug\net10.0\1-NIVEL BASICO.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\obj\Debug\net10.0\1-NIVEL BASICO.sourcelink.json
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\bin\Debug\net10.0\1-NIVEL BASICO.exe
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\bin\Debug\net10.0\1-NIVEL BASICO.deps.json
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\bin\Debug\net10.0\1-NIVEL BASICO.runtimeconfig.json
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\bin\Debug\net10.0\1-NIVEL BASICO.dll
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\bin\Debug\net10.0\1-NIVEL BASICO.pdb
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\obj\Debug\net10.0\1-NIVEL BASICO.dll
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\obj\Debug\net10.0\refint\1-NIVEL BASICO.dll
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\obj\Debug\net10.0\1-NIVEL BASICO.pdb
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\obj\Debug\net10.0\1-NIVEL BASICO.genruntimeconfig.cache
+C:\Users\sergi\OneDrive\Escritorio\EJERCIOS\1-NIVEL BASICO\obj\Debug\net10.0\ref\1-NIVEL BASICO.dll
